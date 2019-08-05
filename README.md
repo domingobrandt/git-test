@@ -21,9 +21,9 @@ Installation and Usage
 ```
 With the above script entry, you can then start lite-server via:
 
-$ npm run start 
+  $ npm run start 
 
 or 
 
-$ npm run lite 
+  s$ npm run lite 
 
